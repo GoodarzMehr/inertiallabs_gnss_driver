@@ -8,7 +8,7 @@ Ubuntu 20.04 Installation
 Assuming the CARMA Platform is installed at `~/carma_ws/src`,
 ```
 cd ~/carma_ws/src
-git clone https://github.com/VT-ASIM-LAB/inertiallabs_gnss_driver.git
+git clone https://github.com/GoodarzMehr/inertiallabs_gnss_driver.git
 cd inertiallabs_gnss_driver/docker
 sudo ./build-image.sh -d
 ```
